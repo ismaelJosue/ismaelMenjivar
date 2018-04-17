@@ -24,8 +24,8 @@ public class IsmaelMenjivar {
         
         for (int i=0; i<cantidad;i++)
         {
-        producto=char.parseChar(JOptionPane.showMessageDialog(null,"producto:"+));
-        
+       /* producto=char.parseChar(JOptionPane.showMessageDialog(null,"producto:"+));
+        */
         
         
         }
